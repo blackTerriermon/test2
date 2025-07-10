@@ -1,0 +1,7 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/Page01_sharedIndex",
+    "pages/Page01_sharedDetail"
+  ]
+}
