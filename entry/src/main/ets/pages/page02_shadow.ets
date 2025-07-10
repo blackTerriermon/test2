@@ -8,5 +8,9 @@ struct page02 {
     .width('100%')
     .height('100%')
     .backgroundColor(Color.Orange)
+    .linearGradient({
+      direction: GradientDirection.Right,
+      colors: [['red', 0.1], ['#fc0', 0.8]]
+    })
   }
 }
